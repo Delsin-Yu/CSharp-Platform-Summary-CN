@@ -27,19 +27,19 @@
 |`.NET Framework 3.0`|`C# 3`|`N/A`|`Windows Vista+`|
 |`.NET Framework 3.5` / `net35`|`C# 3`|`N/A`|`Windows Vista+`|
 |`.NET Framework 4.0` / `net40`|`C# 4`|`N/A`|`Windows Vista+`|
-|`.NET Framework 4.5` / `net45`|`C# 5`|`netstandard1.1`|`Windows Vista+`|
-|`.NET Framework 4.6` / `net46`|`C# 6`|`netstandard1.3`|`Windows Vista+`|
-|`.NET Framework 4.6.1` / `net461`|`C# 7`|`netstandard2.0`|`Windows 7+`|
-|`.NET Framework 4.6.2` / `net462`|`C# 7`|`netstandard2.0`|`Windows 7+`|
-|`.NET Framework 4.7` / `net47`|`C# 7.1`|`netstandard2.0`|`Windows 7+`|
-|`.NET Framework 4.7.1` / `net471`|`C# 7.2`|`netstandard2.0`|`Windows 7+`|
-|`.NET Framework 4.7.2` / `net472`|`C# 7.3`|`netstandard2.0`|`Windows 7+`|
-|`.NET Framework 4.8` / `net48`|`C# 8`|`netstandard2.0`|`Windows 7+`|
-|`.NET Framework 4.8.1` / `net481`|`C# 8`|`netstandard2.0`|`Windows 10 20H2+`|
-|`.NET Core 1.0` / `netcoreapp1.0`|`C# 6`|`netstandard1.6`|`Windows 7 SP1+` / `macOS 10.11+` / `Linux`|
-|`.NET Core 2.0` / `netcoreapp2.0`|`C# 7`|`netstandard2.0`|`Windows 7 SP1+` / `macOS 10.12+` / `Linux`|
-|`.NET Core 2.1` / `netcoreapp2.1`|`C# 7.3`|`netstandard2.0`|`Windows 7 SP1+` / `macOS 10.12+` / `Linux`|
-|`.NET Core 2.2` / `netcoreapp2.2`|`C# 7.3`|`netstandard2.0`|`Windows 7 SP1+` / `macOS 10.12+` / `Linux`|
+|`.NET Framework 4.5` / `net45`|`C# 5`|`netstandard1.1+`|`Windows Vista+`|
+|`.NET Framework 4.6` / `net46`|`C# 6`|`netstandard1.3+`|`Windows Vista+`|
+|`.NET Framework 4.6.1` / `net461`|`C# 7`|`netstandard2.0+`|`Windows 7+`|
+|`.NET Framework 4.6.2` / `net462`|`C# 7`|`netstandard2.0+`|`Windows 7+`|
+|`.NET Framework 4.7` / `net47`|`C# 7.1`|`netstandard2.0+`|`Windows 7+`|
+|`.NET Framework 4.7.1` / `net471`|`C# 7.2`|`netstandard2.0+`|`Windows 7+`|
+|`.NET Framework 4.7.2` / `net472`|`C# 7.3`|`netstandard2.0+`|`Windows 7+`|
+|`.NET Framework 4.8` / `net48`|`C# 8`|`netstandard2.0+`|`Windows 7+`|
+|`.NET Framework 4.8.1` / `net481`|`C# 8`|`netstandard2.0+`|`Windows 10 20H2+`|
+|`.NET Core 1.0` / `netcoreapp1.0`|`C# 6`|`netstandard1.6+`|`Windows 7 SP1+` / `macOS 10.11+` / `Linux`|
+|`.NET Core 2.0` / `netcoreapp2.0`|`C# 7`|`netstandard2.0+`|`Windows 7 SP1+` / `macOS 10.12+` / `Linux`|
+|`.NET Core 2.1` / `netcoreapp2.1`|`C# 7.3`|`netstandard2.0+`|`Windows 7 SP1+` / `macOS 10.12+` / `Linux`|
+|`.NET Core 2.2` / `netcoreapp2.2`|`C# 7.3`|`netstandard2.0+`|`Windows 7 SP1+` / `macOS 10.12+` / `Linux`|
 |`.NET Core 3.0` / `netcoreapp3.0`|`C# 8`|`netstandard2.1`|`Windows 7 SP1+` / `macOS 10.13+` / `Linux`|
 |`.NET Core 3.1` / `netcoreapp3.1`|`C# 8`|`netstandard2.1`|`Windows 7 SP1+` / `macOS 10.15+` / `Linux`|
 |`.NET (Core) 5` / `net5.0`|`C# 9`|`netstandard2.1`|`Windows 7 SP1+` / `macOS 10.15+` / `Linux`|
