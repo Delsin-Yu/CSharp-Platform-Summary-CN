@@ -21,12 +21,12 @@
 
 |平台<br>___________________________________|C#语言版本<br>_____________|.NET标准版本<br>____________|操作系统支持<br>_______________________|
 |-|-|-|-|
-|`.NET Framework 1.0`|`C# 1.0`|`netstandard1.1`|`Visual Studio .NET`|
-|`.NET Framework 1.1` / `net11`|`C# 1.1`|`netstandard1.1`|`Windows Server 2003`|
-|`.NET Framework 2.0` / `net20`|`C# 2`|`netstandard1.1`|`Windows Server 2003+`|
-|`.NET Framework 3.0`|`C# 3`|`netstandard1.1`|`Windows Vista+`|
-|`.NET Framework 3.5` / `net35`|`C# 3`|`netstandard1.1`|`Windows Vista+`|
-|`.NET Framework 4.0` / `net40`|`C# 4`|`netstandard1.1`|`Windows Vista+`|
+|`.NET Framework 1.0`|`C# 1.0`|`N/A`|`Visual Studio .NET`|
+|`.NET Framework 1.1` / `net11`|`C# 1.1`|`N/A`|`Windows Server 2003`|
+|`.NET Framework 2.0` / `net20`|`C# 2`|`N/A`|`Windows Server 2003+`|
+|`.NET Framework 3.0`|`C# 3`|`N/A`|`Windows Vista+`|
+|`.NET Framework 3.5` / `net35`|`C# 3`|`N/A`|`Windows Vista+`|
+|`.NET Framework 4.0` / `net40`|`C# 4`|`N/A`|`Windows Vista+`|
 |`.NET Framework 4.5` / `net45`|`C# 5`|`netstandard1.1`|`Windows Vista+`|
 |`.NET Framework 4.6` / `net46`|`C# 6`|`netstandard1.3`|`Windows Vista+`|
 |`.NET Framework 4.6.1` / `net461`|`C# 7`|`netstandard2.0`|`Windows 7+`|
